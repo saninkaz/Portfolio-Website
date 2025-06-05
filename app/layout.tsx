@@ -12,9 +12,8 @@ const fontSans = FontSans({
 })
 
 export const metadata = {
-  title: "Creative Portfolio",
-  description: "Personal portfolio website showcasing my creative work and skills",
-    generator: 'v0.dev'
+  title: "Portfolio",
+  description: "Personal portfolio website showcasing my creative work and skills"
 }
 
 export default function RootLayout({
